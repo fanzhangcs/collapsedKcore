@@ -5,8 +5,7 @@ The code is for the CKC algorithm, published in the paper "Finding Critical User
 # files
 collapsedKcore.cpp - source code 
 
-dataset.txt - toy friendship data with 5403 vertices and 20368 edges - data structure: vid \t nid \n...
-note that each edge is stored twice and ordered here
+dataset.txt - toy friendship data with 5403 vertices and 20368 edges - data structure: vid \t nid \n... - note that each edge is stored twice and ordered here
 
 the data file is a part of the Gowalla dataset from SNAP: https://snap.stanford.edu/data/
 
